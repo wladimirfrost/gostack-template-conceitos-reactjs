@@ -1,13 +1,11 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<img alt="GoStack" src=".github/header-desafios-new.png" />
 
 <h3 align="center">
   Desafio 03: Conceitos do ReactJS
 </h3>
 
-<p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
-
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirfrost/gostack-template-conceitos-reactjs">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirgrf/conceitos-reactjs">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
@@ -49,11 +47,3 @@ Para esse desafio temos os seguintes testes:
 - **`should be able to add new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma `LI`.
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
-
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
